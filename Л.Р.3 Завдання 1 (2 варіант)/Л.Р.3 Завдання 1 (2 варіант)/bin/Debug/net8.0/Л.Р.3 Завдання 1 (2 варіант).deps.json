@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Л.Р.3 Завдання 1 (2 варіант)/1.0.0": {
+        "runtime": {
+          "Л.Р.3 Завдання 1 (2 варіант).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Л.Р.3 Завдання 1 (2 варіант)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
